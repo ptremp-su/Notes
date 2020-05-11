@@ -19,7 +19,7 @@
 
 #### 本地库和远程库关系
 
-<img src="C:\Users\Dylan\Desktop\【liubing】所有笔记\git学习\assets\git1.png" style="zoom:33%;" />
+<img src="https://github.com/ptremp-su/Notes/blob/master/git%E5%AD%A6%E4%B9%A0/assets/git1.png" style="zoom:33%;" />
 
 <img src="C:\Users\Dylan\Desktop\【liubing】所有笔记\git学习\assets\git2.png" alt="git2" style="zoom:33%;" />
 
